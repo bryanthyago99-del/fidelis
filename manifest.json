@@ -1,0 +1,17 @@
+{
+  "name": "Barbearia Fidelis",
+  "short_name": "Fidelis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#F2B134",
+  "description": "Barbearia Fidelis em Campestre-MG. Cortes premium 14-50 anos. Seg a Sáb 8h-20h.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
